@@ -1,0 +1,29 @@
+﻿ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_OpenCommunicationDlg@4 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_GetProtocolStackSettings@16 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_OpenGateway@16 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_OpenGatewayDlg@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_OpenDriveDlg@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_SetDriveSettings@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_GetDriveSettings@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_FindDriveCommunicationSettings@24 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_GetDriveHandle@20 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_GetDeviceName@16 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_SetOperationMode@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_SetEnableState@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_ActivateProfilePositionMode@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_SetPositionProfile@20 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_MoveToPosition@20 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_GetTargetPosition@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_SetRecorderParameter@16 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_EnableTrigger@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_ActivateChannel@24 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_StartRecorder@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_StopRecorder@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_IsRecorderRunning@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_IsRecorderTriggered@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_ReadChannelVectorSize@12 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_ReadChannelDataVector@20 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_ShowChannelDataDlg@8 referenced in function _main
+ConsoleApplication3.obj : error LNK2019: unresolved external symbol _VCM_ExportChannelDataToFile@12 referenced in function _main
+EposPCmd64.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Aniket\Desktop\repos\ConsoleApplication3\ConsoleApplication3\Debug\ConsoleApplication3.exe : fatal error LNK1120: 27 unresolved externals
